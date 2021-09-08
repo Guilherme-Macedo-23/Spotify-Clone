@@ -1,5 +1,14 @@
-![capa1](https://user-images.githubusercontent.com/79206432/130251436-967b2505-5516-47d2-8e3e-932a1ffeafb6.jpg)
-![capa 2](https://user-images.githubusercontent.com/79206432/130251457-31881685-3807-4bcb-94de-08e9a073915f.jpg)
-# Spotify-Clone
-Fiz um clone do Spotify, um aplicativo que gosto muito então decidi replica-lo. Foi uma ótima experiência poder desenvolver, pois aprendi muito!
-Utilizei HTML, CSS e JavaScript.
+![GIF 08-09-2021 20-48-11](https://user-images.githubusercontent.com/79206432/132600295-f6516445-6b1e-4870-8392-704b62d6885d.gif)
+
+<h1 align="center"> Spotify Clone </h1>
+<p align="center"> 🎉 Fiz um clone do Sopotify para treinar CSS 🥳 </p>
+
+
+<h1 align="center">🚀 Tecnologies</h1>
+<p align="center">The following tecnologies were used in this project</p>
+<p>*✔️Html</p>
+<p>*✔️Css</p>
+
+
+<h1 align="center"> 💻 Project </h1>
+<p align="center"> This project it's completely over </p>
